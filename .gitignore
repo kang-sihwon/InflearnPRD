@@ -7,3 +7,6 @@ dist
 .DS_Store
 .claude/settings.local.json
 .playwright-mcp/
+
+# shrimp task manager
+.shrimp_data/
