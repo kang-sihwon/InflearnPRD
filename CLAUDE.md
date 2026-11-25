@@ -28,3 +28,7 @@ Next.js 15 + Express 모노레포 스타터킷 (npm workspaces).
 ## 주의
 - `node.exe` 전체를 종료하는 명령은 쓰지 않는다.
 - `.env`, 토큰, 개인 정보는 커밋하지 않는다.
+
+# Project Context
+- PRD 문서: @docs/PRD.md
+- 개발 로드맵: @docs/ROADMAP.md
